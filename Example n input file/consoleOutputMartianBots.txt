@@ -1,0 +1,6 @@
+1 1 E
+3 3 N LOST
+2 3 S
+
+(process 14768) exited with code 0.
+Press any key to close this window . . .
