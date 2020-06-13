@@ -39,17 +39,11 @@ For each robot position/instruction in the input, the output should indicate the
 
 5 3 
 
-1 1 E 
+1 1 E RFRFRFRF 
 
-RFRFRFRF 
+3 2 N FRRFLLFFRRFLL 
 
-3 2 N 
-
-FRRFLLFFRRFLL 
-
-0 3 W 
-
-LLFFFLFLFL 
+0 3 W LLFFFLFLFL 
 
 ### Sample Output 
 
